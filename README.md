@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/azhany" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">Seasoned software developer with a strong background in backend programming using PHP. I bring a wealth of experience in web architecture, product development, and business intelligence, adept at integrating data analytics solutions and leveraging cutting-edge technologies to foster innovation.</h3>**
+ **<h3 align="left">Experienced software developer with a strong background in backend programming using PHP and Go. I bring a wealth of experience in web architecture, product development and business intelligence, adept at integrating data analytics solutions and leveraging cutting-edge technologies to foster innovation.</h3>**
 
  **<h3 align="left">Skills</h3>**
 
